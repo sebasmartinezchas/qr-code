@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Continued development
 
-This is the first challenge of many. I hope to gain a level of CSS knowledge that allows me to build projects I'm excited about.
+In .container I used margin: 250px auto to center the card, which causes problems on phones in landscape mode. This could be solved with CSS Grid, using its alignment properties so the layout adapts to the browser’s viewport instead of relying on a fixed margin. I’ll practice this in the next challenge.
 
 
 ## Author

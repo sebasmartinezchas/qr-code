@@ -23,10 +23,9 @@ body {
     /* 5. Improve text rendering */
     background-color: hsl(212, 45%, 89%);
     padding: 0;
-    margin: 0;
     font-family: 'Outfit', sans-serif;
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 1.2rem;
+
 
 }
 
@@ -94,7 +93,7 @@ h6 {
 }
 
 h1 {
-    font-size: 18px;
+    font-size: 1.5rem;
     font-weight: 700;
     text-align: center;
     margin: 16px 0;
@@ -102,7 +101,7 @@ h1 {
 }
 
 p {
-    font-size: 15px;
+    font-size: 1.2rem;
     text-align: center;
     margin: 12px;
     color: hsl(218, 44%, 22%);
@@ -117,7 +116,7 @@ p {
 }
 
 .attribution {
-    font-size: 12px;
+    font-size: 1rem;
     text-align: center;
     margin: 16px 0;
 }

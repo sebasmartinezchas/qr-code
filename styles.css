@@ -85,7 +85,7 @@ h6 {
     background-color: hsl(0, 0%, 100%);
     padding: 16px;
     border-radius: 16px;
-    width: 300px;
+    width: min(100% - 2rem, 300px);
     display: flex;
     flex-direction: column;
     justify-content: center;
